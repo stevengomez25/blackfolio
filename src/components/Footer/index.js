@@ -92,7 +92,7 @@ function Footer() {
           <NavLink href="#about">Sobre mi</NavLink>
           <NavLink href="#skills">Habilidades</NavLink>
           <NavLink href="#experience">Experiencia</NavLink>
-          <NavLink href="#projects">Proyectos</NavLink>
+          <NavLink href="#projects">Tests & Entrenamientos</NavLink>
           <NavLink href="#education">Educación</NavLink>
         </Nav>
         <SocialMediaIcons>
@@ -101,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 SteveGDev. All rights reserved.
+          &copy; 2026 SteveGDev. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

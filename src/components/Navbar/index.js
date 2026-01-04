@@ -204,7 +204,7 @@ const Navbar = () =>{
                     Experiencia
                 </MobileMenuLinks>
                 <MobileMenuLinks href="#projects" onClick={()=>{setOpen(!open);}}>
-                    Proyectos
+                    Tests & Entrenamientos
                 </MobileMenuLinks>
                 <MobileMenuLinks href="#education" onClick={()=>{setOpen(!open);}}>
                     Educación
